@@ -1,0 +1,16 @@
+<!<!DOCTYPE html>
+<link rel = "stylesheet" href = "styles.css">
+<html>
+  <head>
+  <title> Hottest Makeup Artists and Hair Stylists </title>
+  </head>
+  <body>
+    <hl> The Hottest Makeup and Hair Stylists!
+    </hl>
+    <!-- <h2> Heading 2 </h2> -->
+    <p> Paragraph</p>
+    <!-- <img src = "">  -->
+
+  </body>
+
+</html>
