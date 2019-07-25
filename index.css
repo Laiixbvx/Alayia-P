@@ -1,0 +1,15 @@
+body {
+  background-color: #ffd8c0;
+}
+hl {
+  color: white;
+  text-align: center;
+  font-size: large;
+}
+/* h2 {
+  color: #ffc2ad;
+  font-size: medium;
+} */
+p {
+  color: red;
+}
